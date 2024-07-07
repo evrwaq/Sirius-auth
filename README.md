@@ -1,1 +1,1 @@
-# Sirius - Auth
+# Celeste - Auth API
